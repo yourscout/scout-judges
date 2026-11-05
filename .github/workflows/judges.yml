@@ -6,6 +6,9 @@ on:
     # Claude's Monday idea round starts at 12:41pm Adelaide, so the judge pack is ready by then.
     - cron: "0 4 * * 1"
   workflow_dispatch: {}   # "Run workflow" button for a manual run
+  push:                   # also runs once whenever the judge code itself is updated (a quick self-test)
+    branches: [main]
+    paths: ["judge.py", ".github/workflows/judges.yml"]
 
 jobs:
   judge:
