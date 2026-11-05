@@ -199,9 +199,13 @@ def main():
         except Exception as e:  # keep going so one judge failing doesn't block the other
             failures += 1
             print(f"{name} FAILED: {e}", file=sys.stderr)
+            try:  # make the failure visible on the Judge Desk too
+                write_reply(get_children(desk_id), name, f"⚠️ {name} judge failed: {str(e)[:1500]}")
+            except Exception as e2:
+                print(f"Could not write the error to Notion: {e2}", file=sys.stderr)
 
-    if failures == len(judges):
-        sys.exit("Both judges failed.")
+    if failures:
+        sys.exit(f"{failures} judge(s) failed. See the Judge Desk or the log above.")
 
 
 if __name__ == "__main__":
