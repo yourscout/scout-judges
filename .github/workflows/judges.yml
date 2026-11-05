@@ -1,0 +1,27 @@
+name: Scout judges (ChatGPT + Gemini)
+
+on:
+  schedule:
+    # Every Monday 04:00 UTC = 2:30pm Adelaide in summer (ACDT), 1:30pm in winter (ACST).
+    # Claude's Monday idea round starts at 12:41pm Adelaide, so the judge pack is ready by then.
+    - cron: "0 4 * * 1"
+  workflow_dispatch: {}   # "Run workflow" button for a manual run
+
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send judge pack to ChatGPT and Gemini
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          JUDGE_DESK_ID: ${{ vars.JUDGE_DESK_ID }}
+        run: python judge.py
