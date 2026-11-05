@@ -14,6 +14,7 @@ Needs these environment variables (GitHub Actions secrets / variables):
   GEMINI_MODEL     variable Gemini model name to use as the judge
   JUDGE_DESK_ID    variable (optional) Notion page ID of the Judge Desk
 Only the Python standard library is used, so there is nothing to install.
+If a judge fails, the error is written under its heading on the Judge Desk.
 """
 
 import json
