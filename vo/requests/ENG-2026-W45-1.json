@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "voice": "Charlie",
  "model": "eleven_multilingual_v2",
  "stability": 0.45,
