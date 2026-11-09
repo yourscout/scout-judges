@@ -1,1 +1,0 @@
-Missing ELEVENLABS_API_KEY. Add it under repo Settings > Secrets and variables > Actions.

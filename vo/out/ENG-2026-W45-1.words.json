@@ -1,0 +1,403 @@
+{
+ "version": 2,
+ "voice_id": "IKne3meq5aSn9XLyUdCD",
+ "model": "eleven_multilingual_v2",
+ "text": "Aussies. I asked ChatGPT and Scout the exact same question. Honestly? ChatGPT did a good job. But only one showed me where it was cheaper. ChatGPT gave me Aussie stores, Aussie prices, and five picks. One store each, then a quiz about her style. Scout searched Aussie stores too, then checked the same gift at other stores. Ten bucks cheaper here. Six bucks cheaper there. Rated picks, live prices, one list. Scout launches November sixteen. Waitlist's in the bio.",
+ "words": [
+  {
+   "word": "Aussies.",
+   "start": 0.0,
+   "end": 0.731
+  },
+  {
+   "word": "I",
+   "start": 1.115,
+   "end": 1.161
+  },
+  {
+   "word": "asked",
+   "start": 1.277,
+   "end": 1.509
+  },
+  {
+   "word": "ChatGPT",
+   "start": 1.591,
+   "end": 2.194
+  },
+  {
+   "word": "and",
+   "start": 2.31,
+   "end": 2.38
+  },
+  {
+   "word": "Scout",
+   "start": 2.426,
+   "end": 2.728
+  },
+  {
+   "word": "the",
+   "start": 2.786,
+   "end": 2.879
+  },
+  {
+   "word": "exact",
+   "start": 2.937,
+   "end": 3.344
+  },
+  {
+   "word": "same",
+   "start": 3.425,
+   "end": 3.704
+  },
+  {
+   "word": "question.",
+   "start": 3.738,
+   "end": 4.342
+  },
+  {
+   "word": "Honestly?",
+   "start": 4.946,
+   "end": 5.596
+  },
+  {
+   "word": "ChatGPT",
+   "start": 6.107,
+   "end": 6.722
+  },
+  {
+   "word": "did",
+   "start": 6.896,
+   "end": 7.024
+  },
+  {
+   "word": "a",
+   "start": 7.047,
+   "end": 7.07
+  },
+  {
+   "word": "good",
+   "start": 7.117,
+   "end": 7.268
+  },
+  {
+   "word": "job.",
+   "start": 7.314,
+   "end": 7.721
+  },
+  {
+   "word": "But",
+   "start": 8.046,
+   "end": 8.255
+  },
+  {
+   "word": "only",
+   "start": 8.348,
+   "end": 8.742
+  },
+  {
+   "word": "one",
+   "start": 8.824,
+   "end": 9.079
+  },
+  {
+   "word": "showed",
+   "start": 9.137,
+   "end": 9.462
+  },
+  {
+   "word": "me",
+   "start": 9.509,
+   "end": 9.613
+  },
+  {
+   "word": "where",
+   "start": 9.671,
+   "end": 9.868
+  },
+  {
+   "word": "it",
+   "start": 9.915,
+   "end": 9.973
+  },
+  {
+   "word": "was",
+   "start": 10.008,
+   "end": 10.112
+  },
+  {
+   "word": "cheaper.",
+   "start": 10.159,
+   "end": 10.693
+  },
+  {
+   "word": "ChatGPT",
+   "start": 11.389,
+   "end": 12.016
+  },
+  {
+   "word": "gave",
+   "start": 12.167,
+   "end": 12.376
+  },
+  {
+   "word": "me",
+   "start": 12.423,
+   "end": 12.574
+  },
+  {
+   "word": "Aussie",
+   "start": 12.666,
+   "end": 13.003
+  },
+  {
+   "word": "stores,",
+   "start": 13.05,
+   "end": 13.595
+  },
+  {
+   "word": "Aussie",
+   "start": 13.746,
+   "end": 14.048
+  },
+  {
+   "word": "prices,",
+   "start": 14.095,
+   "end": 14.536
+  },
+  {
+   "word": "and",
+   "start": 14.571,
+   "end": 14.721
+  },
+  {
+   "word": "five",
+   "start": 14.814,
+   "end": 15.081
+  },
+  {
+   "word": "picks.",
+   "start": 15.128,
+   "end": 15.615
+  },
+  {
+   "word": "One",
+   "start": 15.999,
+   "end": 16.196
+  },
+  {
+   "word": "store",
+   "start": 16.231,
+   "end": 16.475
+  },
+  {
+   "word": "each,",
+   "start": 16.509,
+   "end": 16.858
+  },
+  {
+   "word": "then",
+   "start": 17.183,
+   "end": 17.369
+  },
+  {
+   "word": "a",
+   "start": 17.415,
+   "end": 17.438
+  },
+  {
+   "word": "quiz",
+   "start": 17.496,
+   "end": 17.728
+  },
+  {
+   "word": "about",
+   "start": 17.774,
+   "end": 17.983
+  },
+  {
+   "word": "her",
+   "start": 18.018,
+   "end": 18.088
+  },
+  {
+   "word": "style.",
+   "start": 18.134,
+   "end": 18.668
+  },
+  {
+   "word": "Scout",
+   "start": 19.365,
+   "end": 19.702
+  },
+  {
+   "word": "searched",
+   "start": 19.771,
+   "end": 20.062
+  },
+  {
+   "word": "Aussie",
+   "start": 20.096,
+   "end": 20.294
+  },
+  {
+   "word": "stores",
+   "start": 20.317,
+   "end": 20.596
+  },
+  {
+   "word": "too,",
+   "start": 20.642,
+   "end": 21.049
+  },
+  {
+   "word": "then",
+   "start": 21.257,
+   "end": 21.432
+  },
+  {
+   "word": "checked",
+   "start": 21.49,
+   "end": 21.757
+  },
+  {
+   "word": "the",
+   "start": 21.803,
+   "end": 21.908
+  },
+  {
+   "word": "same",
+   "start": 21.989,
+   "end": 22.291
+  },
+  {
+   "word": "gift",
+   "start": 22.326,
+   "end": 22.523
+  },
+  {
+   "word": "at",
+   "start": 22.569,
+   "end": 22.627
+  },
+  {
+   "word": "other",
+   "start": 22.674,
+   "end": 22.825
+  },
+  {
+   "word": "stores.",
+   "start": 22.86,
+   "end": 23.382
+  },
+  {
+   "word": "Ten",
+   "start": 23.893,
+   "end": 24.114
+  },
+  {
+   "word": "bucks",
+   "start": 24.183,
+   "end": 24.381
+  },
+  {
+   "word": "cheaper",
+   "start": 24.404,
+   "end": 24.682
+  },
+  {
+   "word": "here.",
+   "start": 24.717,
+   "end": 25.054
+  },
+  {
+   "word": "Six",
+   "start": 25.437,
+   "end": 25.658
+  },
+  {
+   "word": "bucks",
+   "start": 25.716,
+   "end": 25.901
+  },
+  {
+   "word": "cheaper",
+   "start": 25.925,
+   "end": 26.169
+  },
+  {
+   "word": "there.",
+   "start": 26.203,
+   "end": 26.54
+  },
+  {
+   "word": "Rated",
+   "start": 26.981,
+   "end": 27.271
+  },
+  {
+   "word": "picks,",
+   "start": 27.306,
+   "end": 27.736
+  },
+  {
+   "word": "live",
+   "start": 28.014,
+   "end": 28.258
+  },
+  {
+   "word": "prices,",
+   "start": 28.282,
+   "end": 28.908
+  },
+  {
+   "word": "one",
+   "start": 29.234,
+   "end": 29.431
+  },
+  {
+   "word": "list.",
+   "start": 29.477,
+   "end": 29.895
+  },
+  {
+   "word": "Scout",
+   "start": 30.499,
+   "end": 30.859
+  },
+  {
+   "word": "launches",
+   "start": 30.94,
+   "end": 31.323
+  },
+  {
+   "word": "November",
+   "start": 31.393,
+   "end": 31.765
+  },
+  {
+   "word": "sixteen.",
+   "start": 31.823,
+   "end": 32.519
+  },
+  {
+   "word": "Waitlist's",
+   "start": 32.902,
+   "end": 33.483
+  },
+  {
+   "word": "in",
+   "start": 33.576,
+   "end": 33.68
+  },
+  {
+   "word": "the",
+   "start": 33.727,
+   "end": 33.796
+  },
+  {
+   "word": "bio.",
+   "start": 33.843,
+   "end": 34.597
+  }
+ ]
+}
