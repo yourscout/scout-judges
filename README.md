@@ -51,3 +51,11 @@ After a Monday run has put a pack on the Judge Desk (or one is there now), go to
 - **HTTP 401/403:** wrong key, or the Notion integration isn't connected to the Judge Desk page.
 - **HTTP 404 from OpenAI/Gemini:** the model name in the variables is wrong or retired. Update `OPENAI_MODEL` / `GEMINI_MODEL`.
 - **One judge fails:** the other still runs, and Tuesday's step works with whatever scores exist. GitHub emails the repo owner when a run fails.
+
+## Voiceovers (ElevenLabs)
+
+`tts.py` + `.github/workflows/voiceover.yml` turn voiceover scripts into MP3s with word timings (for synced captions).
+
+- **Setup (once):** create an API key at elevenlabs.io (a paid plan is needed for commercial use), save it in Bitwarden, then add it as the repo secret `ELEVENLABS_API_KEY`.
+- **Use:** Claude commits `vo/requests/<name>.json` and pushes. The workflow writes `vo/out/<name>.mp3` and `<name>.words.json` back to the repo, or `<name>.error.txt` if something failed. `{"list_voices": true}` writes `vo/out/voices.json`.
+- To regenerate a voiceover, bump `"version"` in its request file.
