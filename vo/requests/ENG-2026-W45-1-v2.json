@@ -1,10 +1,10 @@
 {
- "version": 2,
+ "version": 3,
  "voice": "Rachel",
  "model": "eleven_multilingual_v2",
- "stability": 0.4,
+ "stability": 0.45,
  "similarity": 0.8,
  "style": 0.35,
- "speed": 1.05,
+ "speed": 1.15,
  "text": "I asked ChatGPT and Scout for noise-cancelling headphones for flights, under four hundred. Both picked the Sennheiser Momentum 4. But only one told me where it's fifty bucks cheaper. ChatGPT gave me a range. Around three hundred to three-forty. Scout checks prices across Aussie stores. Two ninety-nine at Kogan. And Scout says that's fifty bucks cheaper than Myer. Scout. Launching November sixteen."
 }
