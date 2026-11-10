@@ -1,0 +1,10 @@
+{
+ "version": 1,
+ "voice": "Rachel",
+ "model": "eleven_multilingual_v2",
+ "stability": 0.4,
+ "similarity": 0.8,
+ "style": 0.35,
+ "speed": 1.05,
+ "text": "I asked ChatGPT and Scout for noise-cancelling headphones for flights, under four hundred. Both recommended the same pair. But only one told me where it's fifty bucks cheaper. ChatGPT gave me a range. Around three hundred to three-forty. Scout checks prices across Aussie stores. Two ninety-nine at Kogan. Fifty bucks cheaper than Myer, for the exact same headphones. Scout. Launching November sixteen."
+}
