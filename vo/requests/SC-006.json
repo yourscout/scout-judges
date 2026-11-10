@@ -1,0 +1,10 @@
+{
+ "version": 1,
+ "voice": "Rachel",
+ "model": "eleven_multilingual_v2",
+ "stability": 0.45,
+ "similarity": 0.8,
+ "style": 0.35,
+ "speed": 1.08,
+ "text": "Don't buy anything in the sales until you've seen this. I asked Scout for a robot vacuum for pet hair, under five hundred. Same vacuum, two Aussie stores, almost thirty-seven dollars apart. This one's thirty bucks cheaper at Kmart than JB Hi-Fi. And this one? Two hundred and ninety-nine dollars under the brand's own store. Before you hit buy, check it with Scout. Scout. Launching November sixteen."
+}
