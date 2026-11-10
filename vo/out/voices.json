@@ -4,11 +4,11 @@
   "voice_id": "pNInz6obpgDQGcFmaJgB",
   "category": "premade",
   "labels": {
-   "use_case": "social_media",
    "gender": "male",
    "accent": "american",
    "language": "en",
-   "age": "middle_aged"
+   "age": "middle_aged",
+   "use_case": "social_media"
   },
   "description": "A bright tenor pitch that immediately cuts through. The delivery is brash and openly confident, speaking with unwavering certainty and a slightly aggressive self-assurance."
  },
@@ -17,12 +17,12 @@
   "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
   "category": "premade",
   "labels": {
-   "use_case": "informative_educational",
    "gender": "female",
    "accent": "british",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "professional"
+   "descriptive": "professional",
+   "use_case": "informative_educational"
   },
   "description": "Clear and engaging, friendly woman with a British accent suitable for e-learning."
  },
@@ -31,12 +31,12 @@
   "voice_id": "hpp4J3VqNfWAUOO0d1Us",
   "category": "premade",
   "labels": {
-   "use_case": "informative_educational",
    "gender": "female",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "professional"
+   "descriptive": "professional",
+   "use_case": "informative_educational"
   },
   "description": "This voice is warm, bright, and professional, characterized by a Standard American accent and a polished, narrative quality. It features a medium-high pitch with crisp diction and a deliberate, rhythmic pace that makes it highly intelligible and engaging for long-form listening."
  },
@@ -45,12 +45,12 @@
   "voice_id": "pqHfZKP75CvOlQylNhV4",
   "category": "premade",
   "labels": {
-   "use_case": "advertisement",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "old",
-   "descriptive": "crisp"
+   "descriptive": "crisp",
+   "use_case": "advertisement"
   },
   "description": "Friendly and comforting voice ready to narrate your stories."
  },
@@ -59,12 +59,12 @@
   "voice_id": "nPczCjzI2devNBz1zQrb",
   "category": "premade",
   "labels": {
-   "use_case": "social_media",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "classy"
+   "descriptive": "classy",
+   "use_case": "social_media"
   },
   "description": "Middle-aged man with a resonant and comforting tone. Great for narrations and advertisements."
  },
@@ -73,11 +73,11 @@
   "voice_id": "N2lVS1w4EtoT3dr4eOWO",
   "category": "premade",
   "labels": {
-   "use_case": "characters_animation",
    "gender": "male",
    "accent": "american",
    "language": "en",
-   "age": "middle_aged"
+   "age": "middle_aged",
+   "use_case": "characters_animation"
   },
   "description": "Deceptively gravelly, yet unsettling edge."
  },
@@ -86,12 +86,12 @@
   "voice_id": "IKne3meq5aSn9XLyUdCD",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "male",
    "accent": "australian",
    "language": "en",
    "age": "young",
-   "descriptive": "hyped"
+   "descriptive": "hyped",
+   "use_case": "conversational"
   },
   "description": "A young Australian male with a confident and energetic voice."
  },
@@ -100,12 +100,12 @@
   "voice_id": "iP95p4xoKVk53GoZ742B",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "casual"
+   "descriptive": "casual",
+   "use_case": "conversational"
   },
   "description": "Natural and real, this down-to-earth voice is great across many use-cases."
  },
@@ -114,12 +114,12 @@
   "voice_id": "onwK4e9ZLuTAKqWW03F9",
   "category": "premade",
   "labels": {
-   "use_case": "informative_educational",
    "gender": "male",
    "accent": "british",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "formal"
+   "descriptive": "formal",
+   "use_case": "informative_educational"
   },
   "description": "A strong voice perfect for delivering a professional broadcast or news story."
  },
@@ -128,12 +128,12 @@
   "voice_id": "cjVigY5qzO86Huf0OWal",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "classy"
+   "descriptive": "classy",
+   "use_case": "conversational"
   },
   "description": "A smooth tenor pitch from a man in his 40s - perfect for agentic use cases."
  },
@@ -142,12 +142,12 @@
   "voice_id": "JBFqnCBsd6RMkjVDRZzb",
   "category": "premade",
   "labels": {
-   "use_case": "narrative_story",
    "gender": "male",
    "accent": "british",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "mature"
+   "descriptive": "mature",
+   "use_case": "narrative_story"
   },
   "description": "Warm resonance that instantly captivates listeners."
  },
@@ -156,12 +156,12 @@
   "voice_id": "SOYHLrjzK2X1ezoPC6cr",
   "category": "premade",
   "labels": {
-   "use_case": "characters_animation",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "rough"
+   "descriptive": "rough",
+   "use_case": "characters_animation"
   },
   "description": "An animated warrior ready to charge forward."
  },
@@ -170,12 +170,12 @@
   "voice_id": "cgSgspJ2msm6clMCkdW9",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "female",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "cute"
+   "descriptive": "cute",
+   "use_case": "conversational"
   },
   "description": "Young and popular, this playful American female voice is perfect for trendy content."
  },
@@ -184,12 +184,12 @@
   "voice_id": "FGY2WhTYpPnrIDTdsKH5",
   "category": "premade",
   "labels": {
-   "use_case": "social_media",
    "gender": "female",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "sassy"
+   "descriptive": "sassy",
+   "use_case": "social_media"
   },
   "description": "This young adult female voice delivers sunny enthusiasm with a quirky attitude."
  },
@@ -198,12 +198,12 @@
   "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
   "category": "premade",
   "labels": {
-   "use_case": "social_media",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "confident"
+   "descriptive": "confident",
+   "use_case": "social_media"
   },
   "description": "A young adult with energy and warmth - suitable for reels and shorts."
  },
@@ -212,12 +212,12 @@
   "voice_id": "pFZP5JQG7iQjIQuC4Bku",
   "category": "premade",
   "labels": {
-   "use_case": "informative_educational",
    "gender": "female",
    "accent": "british",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "confident"
+   "descriptive": "confident",
+   "use_case": "informative_educational"
   },
   "description": "Velvety British female voice delivers news and narrations with warmth and clarity."
  },
@@ -226,26 +226,40 @@
   "voice_id": "XrExE9yKIg1WjnnlVkGX",
   "category": "premade",
   "labels": {
-   "use_case": "informative_educational",
    "gender": "female",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "upbeat"
+   "descriptive": "upbeat",
+   "use_case": "informative_educational"
   },
   "description": "A professional woman with a pleasing alto pitch. Suitable for many use cases."
+ },
+ {
+  "name": "Rachel - Fun, Casual, Australian Woman, English speaker",
+  "voice_id": "U9VgC8Xinl7nnNsyDd3J",
+  "category": "professional",
+  "labels": {
+   "language": "en",
+   "age": "young",
+   "descriptive": "casual",
+   "use_case": "advertisement",
+   "accent": "australian",
+   "gender": "female"
+  },
+  "description": "Fun, warm, conversational Australian female voice in her 30s.\nNatural Aussie accent with a friendly, relaxed delivery that feels authentic and engaging. Perfect for TikTok, Instagram Reels, YouTube Shorts, podcasts, audiobooks, ads, narration, lifestyle content, storytelling, and social media voiceovers.\n\nExpressive without being over-the-top. Casual narration,  relatable brand storytelling, affirmations, personal vlogs, and modern digital creators. Clear, confident, and emotionally natural."
  },
  {
   "name": "River - Relaxed, Neutral, Informative",
   "voice_id": "SAz9YHcvj6GT2YYXdXww",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "neutral",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "calm"
+   "descriptive": "calm",
+   "use_case": "conversational"
   },
   "description": "A relaxed, neutral voice ready for narrations or conversational projects."
  },
@@ -254,12 +268,12 @@
   "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "middle_aged",
-   "descriptive": "classy"
+   "descriptive": "classy",
+   "use_case": "conversational"
   },
   "description": "Easy going and perfect for casual conversations."
  },
@@ -268,12 +282,12 @@
   "voice_id": "EXAVITQu4vr4xnSDxMaL",
   "category": "premade",
   "labels": {
-   "use_case": "entertainment_tv",
    "gender": "female",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "professional"
+   "descriptive": "professional",
+   "use_case": "entertainment_tv"
   },
   "description": "Young adult woman with a confident and warm, mature quality and a reassuring, professional tone."
  },
@@ -282,12 +296,12 @@
   "voice_id": "bIHbv24MWmeRgasZH58o",
   "category": "premade",
   "labels": {
-   "use_case": "conversational",
    "gender": "male",
    "accent": "american",
    "language": "en",
    "age": "young",
-   "descriptive": "chill"
+   "descriptive": "chill",
+   "use_case": "conversational"
   },
   "description": "Conversational and laid back."
  }

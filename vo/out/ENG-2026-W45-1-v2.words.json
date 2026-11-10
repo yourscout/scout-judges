@@ -1,0 +1,318 @@
+{
+ "version": 1,
+ "voice_id": "U9VgC8Xinl7nnNsyDd3J",
+ "model": "eleven_multilingual_v2",
+ "text": "I asked ChatGPT and Scout for noise-cancelling headphones for flights, under four hundred. Both recommended the same pair. But only one told me where it's fifty bucks cheaper. ChatGPT gave me a range. Around three hundred to three-forty. Scout checks prices across Aussie stores. Two ninety-nine at Kogan. Fifty bucks cheaper than Myer, for the exact same headphones. Scout. Launching November sixteen.",
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "word": "asked",
+   "start": 0.197,
+   "end": 0.43
+  },
+  {
+   "word": "ChatGPT",
+   "start": 0.453,
+   "end": 1.091
+  },
+  {
+   "word": "and",
+   "start": 1.207,
+   "end": 1.3
+  },
+  {
+   "word": "Scout",
+   "start": 1.358,
+   "end": 1.649
+  },
+  {
+   "word": "for",
+   "start": 1.718,
+   "end": 1.823
+  },
+  {
+   "word": "noise-cancelling",
+   "start": 1.904,
+   "end": 2.682
+  },
+  {
+   "word": "headphones",
+   "start": 2.74,
+   "end": 3.135
+  },
+  {
+   "word": "for",
+   "start": 3.181,
+   "end": 3.297
+  },
+  {
+   "word": "flights,",
+   "start": 3.344,
+   "end": 3.924
+  },
+  {
+   "word": "under",
+   "start": 4.005,
+   "end": 4.261
+  },
+  {
+   "word": "four",
+   "start": 4.307,
+   "end": 4.481
+  },
+  {
+   "word": "hundred.",
+   "start": 4.528,
+   "end": 5.05
+  },
+  {
+   "word": "Both",
+   "start": 5.631,
+   "end": 5.863
+  },
+  {
+   "word": "recommended",
+   "start": 5.921,
+   "end": 6.362
+  },
+  {
+   "word": "the",
+   "start": 6.397,
+   "end": 6.467
+  },
+  {
+   "word": "same",
+   "start": 6.502,
+   "end": 6.711
+  },
+  {
+   "word": "pair.",
+   "start": 6.745,
+   "end": 7.187
+  },
+  {
+   "word": "But",
+   "start": 7.349,
+   "end": 7.512
+  },
+  {
+   "word": "only",
+   "start": 7.57,
+   "end": 7.802
+  },
+  {
+   "word": "one",
+   "start": 7.872,
+   "end": 8.057
+  },
+  {
+   "word": "told",
+   "start": 8.104,
+   "end": 8.301
+  },
+  {
+   "word": "me",
+   "start": 8.348,
+   "end": 8.429
+  },
+  {
+   "word": "where",
+   "start": 8.475,
+   "end": 8.638
+  },
+  {
+   "word": "it's",
+   "start": 8.673,
+   "end": 8.777
+  },
+  {
+   "word": "fifty",
+   "start": 8.812,
+   "end": 9.044
+  },
+  {
+   "word": "bucks",
+   "start": 9.091,
+   "end": 9.311
+  },
+  {
+   "word": "cheaper.",
+   "start": 9.346,
+   "end": 9.915
+  },
+  {
+   "word": "ChatGPT",
+   "start": 10.403,
+   "end": 11.041
+  },
+  {
+   "word": "gave",
+   "start": 11.18,
+   "end": 11.355
+  },
+  {
+   "word": "me",
+   "start": 11.389,
+   "end": 11.471
+  },
+  {
+   "word": "a",
+   "start": 11.517,
+   "end": 11.552
+  },
+  {
+   "word": "range.",
+   "start": 11.622,
+   "end": 12.109
+  },
+  {
+   "word": "Around",
+   "start": 12.202,
+   "end": 12.516
+  },
+  {
+   "word": "three",
+   "start": 12.562,
+   "end": 12.759
+  },
+  {
+   "word": "hundred",
+   "start": 12.806,
+   "end": 13.142
+  },
+  {
+   "word": "to",
+   "start": 13.189,
+   "end": 13.247
+  },
+  {
+   "word": "three-forty.",
+   "start": 13.305,
+   "end": 14.06
+  },
+  {
+   "word": "Scout",
+   "start": 14.477,
+   "end": 14.779
+  },
+  {
+   "word": "checks",
+   "start": 14.814,
+   "end": 15.035
+  },
+  {
+   "word": "prices",
+   "start": 15.07,
+   "end": 15.406
+  },
+  {
+   "word": "across",
+   "start": 15.453,
+   "end": 15.789
+  },
+  {
+   "word": "Aussie",
+   "start": 15.847,
+   "end": 16.103
+  },
+  {
+   "word": "stores.",
+   "start": 16.149,
+   "end": 16.695
+  },
+  {
+   "word": "Two",
+   "start": 16.892,
+   "end": 17.078
+  },
+  {
+   "word": "ninety-nine",
+   "start": 17.136,
+   "end": 17.566
+  },
+  {
+   "word": "at",
+   "start": 17.589,
+   "end": 17.647
+  },
+  {
+   "word": "Kogan.",
+   "start": 17.693,
+   "end": 18.193
+  },
+  {
+   "word": "Fifty",
+   "start": 18.46,
+   "end": 18.738
+  },
+  {
+   "word": "bucks",
+   "start": 18.785,
+   "end": 19.005
+  },
+  {
+   "word": "cheaper",
+   "start": 19.029,
+   "end": 19.33
+  },
+  {
+   "word": "than",
+   "start": 19.365,
+   "end": 19.481
+  },
+  {
+   "word": "Myer,",
+   "start": 19.528,
+   "end": 19.818
+  },
+  {
+   "word": "for",
+   "start": 19.841,
+   "end": 19.934
+  },
+  {
+   "word": "the",
+   "start": 19.969,
+   "end": 20.039
+  },
+  {
+   "word": "exact",
+   "start": 20.085,
+   "end": 20.399
+  },
+  {
+   "word": "same",
+   "start": 20.433,
+   "end": 20.619
+  },
+  {
+   "word": "headphones.",
+   "start": 20.654,
+   "end": 21.304
+  },
+  {
+   "word": "Scout.",
+   "start": 21.467,
+   "end": 21.989
+  },
+  {
+   "word": "Launching",
+   "start": 22.477,
+   "end": 22.86
+  },
+  {
+   "word": "November",
+   "start": 22.906,
+   "end": 23.278
+  },
+  {
+   "word": "sixteen.",
+   "start": 23.336,
+   "end": 24.288
+  }
+ ]
+}
